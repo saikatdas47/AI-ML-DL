@@ -1,0 +1,96 @@
+text    length      level
+hello   5           1
+world   5           2
+foo     3           1
+bar     3           2
+baz     3           3
+example 7           1
+test    4           2
+data    4           3
+sample  6           1
+python  6           2
+code    4           3
+apple   5           1
+banana  6           2
+cherry  6           3
+date    4           1
+elder   5           2
+fig     3           3
+grape   5           1
+honey   5           2
+ice     3           3
+juice   5           1
+kiwi    4           2
+lemon   5           3
+mango   5           1
+nectar  6           2
+olive   5           3
+peach   5           1
+quince  6           2
+raisin  6           3
+straw   5           1
+tomato  6           2
+ugli    4           3
+vanilla 7           1
+water   5           2
+xigua   5           3
+yam     3           1
+zucchini8           2
+alpha   5           3
+beta    4           1
+gamma   5           2
+delta   5           3
+epsilon 7           1
+zeta    4           2
+eta     3           3
+theta   5           1
+iota    4           2
+kappa   5           3
+lambda  6           1
+mu      2           2
+nu      2           3
+xi      2           1
+omicron 7           2
+pi      2           3
+rho     3           1
+sigma   5           2
+tau     3           3
+upsilon 7           1
+phi     3           2
+chi     3           3
+psi     3           1
+omega   5           2
+one     3           3
+two     3           1
+three   5           2
+four    4           3
+five    4           1
+six     3           2
+seven   5           3
+eight   5           1
+nine    4           2
+ten     3           3
+eleven  6           1
+twelve  6           2
+thirteen8           3
+fourteen8           1
+fifteen 7           2
+sixteen 7           3
+seventeen9           1
+eighteen8           2
+nineteen8           3
+twenty  6           1
+thirty  6           2
+forty   5           3
+fifty   5           1
+sixty   5           2
+seventy 7           3
+eighty  6           1
+ninety  6           2
+hundred 7           3
+thousand8           1
+million 7           2
+billion 7           3
+trillion8           1
+quadrillion12       2
+quintillion11       3
